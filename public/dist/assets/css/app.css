@@ -1,0 +1,255 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[3].use[0]!./public/src/layouts/Header.vue?vue&type=style&index=0&id=73201646&scoped=true&lang=scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************/
+nav[data-v-73201646] {
+  display: inline-block;
+}
+nav a[data-v-73201646] {
+  display: flex;
+  align-items: center;
+  color: #000;
+}
+nav a[data-v-73201646]:before {
+  content: "";
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: #000;
+}
+nav a[class*=active][data-v-73201646] {
+  font-weight: 700;
+  color: #ff0000;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[3].use[0]!./public/src/views/MultiplicationTable.vue?vue&type=style&index=0&id=4deb9aa4&scoped=true&lang=scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************/
+form[data-v-4deb9aa4] {
+  display: flex;
+  align-items: center;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[3].use[0]!./public/src/views/WordRelay.vue?vue&type=style&index=0&id=ad44cc3a&scoped=true&lang=scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************/
+form[data-v-ad44cc3a] {
+  display: flex;
+  align-items: center;
+}
+ul[data-v-ad44cc3a] {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+ul[data-v-ad44cc3a]:before {
+  content: "[";
+  margin-right: 10px;
+}
+ul[data-v-ad44cc3a]:after {
+  content: "]";
+  margin-left: 10px;
+}
+ul li[data-v-ad44cc3a]:before {
+  content: ">";
+  margin: 0 10px;
+}
+ul li[data-v-ad44cc3a]:first-child:before {
+  display: none;
+}
+.caution[data-v-ad44cc3a] {
+  display: block;
+  color: #ff0000;
+  margin-top: 5px;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[3].use[0]!./public/src/views/NumberBaseball.vue?vue&type=style&index=0&id=9d8c13a6&scoped=true&lang=scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************/
+label[data-v-9d8c13a6] {
+  display: inline-block;
+  position: relative;
+  cursor: text;
+}
+label input[data-v-9d8c13a6] {
+  height: 30px;
+}
+label span[data-v-9d8c13a6] {
+  transition-duration: 300ms;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  height: 21px;
+  font-size: 13px;
+  color: #999;
+  padding: 0 5px;
+  margin: auto;
+  background-color: transparent;
+}
+label.hasFocus span[data-v-9d8c13a6], label.hasText span[data-v-9d8c13a6] {
+  transform: translate(5px, -150%);
+  height: 12px;
+  font-size: 11px;
+  background-color: #fff;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[3].use[0]!./public/src/views/ResponseCheck.vue?vue&type=style&index=0&id=f1be50fa&scoped=true&lang=scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************/
+#screen[data-v-f1be50fa] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 200px;
+  user-select: none;
+}
+#screen.waiting[data-v-f1be50fa] {
+  background-color: aqua;
+}
+#screen.ready[data-v-f1be50fa] {
+  background-color: red;
+}
+#screen.now[data-v-f1be50fa] {
+  background-color: green;
+}
+ul[data-v-f1be50fa] {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+ul li[data-v-f1be50fa] {
+  display: flex;
+  align-items: center;
+}
+ul li[data-v-f1be50fa]:before {
+  content: "";
+  display: block;
+  width: 5px;
+  height: 5px;
+  margin: 0 10px;
+  border-radius: 50%;
+  background-color: #000;
+}
+.nodata[data-v-f1be50fa] {
+  display: flex;
+  align-items: center;
+}
+.nodata[data-v-f1be50fa]:before {
+  content: "";
+  display: block;
+  width: 5px;
+  height: 5px;
+  margin: 0 10px;
+  border-radius: 50%;
+  background-color: #000;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[3].use[0]!./public/src/views/RockScissorsPaper.vue?vue&type=style&index=0&id=080747e8&scoped=true&lang=scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************/
+.computer[data-v-080747e8] {
+  width: 150px;
+  height: 200px;
+  background-image: url("https://en.pimg.jp/023/182/267/1/23182267.jpg");
+}
+.computer.rock[data-v-080747e8] {
+  background-position: -15px 0;
+}
+.computer.scissors[data-v-080747e8] {
+  background-position: -135px 0;
+}
+.computer.paper[data-v-080747e8] {
+  background-position: -284px 0;
+}
+.btn-area[data-v-080747e8] {
+  display: flex;
+  width: 150px;
+  margin-top: 10px;
+}
+.btn-area button[data-v-080747e8] {
+  flex: 1;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[3].use[0]!./public/src/views/LottoGenerator.vue?vue&type=style&index=0&id=539c79ca&scoped=true&lang=scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************/
+.ball-list[data-v-539c79ca] {
+  display: flex;
+}
+.ball-list .list-item[data-v-539c79ca] {
+  list-style: none;
+  margin-left: 10px;
+}
+.ball-list .list-item[data-v-539c79ca]:first-child {
+  margin-left: 0;
+}
+.list-item [class^=ball][data-v-539c79ca],
+.bonus [class^=ball][data-v-539c79ca] {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0px 0px 3px rgba(41, 56, 0, 0.8);
+  border-radius: 50%;
+}
+.list-item [class^=ball][class$="1"][data-v-539c79ca], .list-item [class^=ball][class$="2"][data-v-539c79ca], .list-item [class^=ball][class$="3"][data-v-539c79ca], .list-item [class^=ball][class$="4"][data-v-539c79ca], .list-item [class^=ball][class$="5"][data-v-539c79ca], .list-item [class^=ball][class$="6"][data-v-539c79ca], .list-item [class^=ball][class$="7"][data-v-539c79ca], .list-item [class^=ball][class$="8"][data-v-539c79ca], .list-item [class^=ball][class$="9"][data-v-539c79ca],
+.bonus [class^=ball][class$="1"][data-v-539c79ca],
+.bonus [class^=ball][class$="2"][data-v-539c79ca],
+.bonus [class^=ball][class$="3"][data-v-539c79ca],
+.bonus [class^=ball][class$="4"][data-v-539c79ca],
+.bonus [class^=ball][class$="5"][data-v-539c79ca],
+.bonus [class^=ball][class$="6"][data-v-539c79ca],
+.bonus [class^=ball][class$="7"][data-v-539c79ca],
+.bonus [class^=ball][class$="8"][data-v-539c79ca],
+.bonus [class^=ball][class$="9"][data-v-539c79ca] {
+  background-color: #fbc400;
+}
+.list-item [class^=ball][class$="10"][data-v-539c79ca], .list-item [class^=ball][class$="11"][data-v-539c79ca], .list-item [class^=ball][class$="12"][data-v-539c79ca], .list-item [class^=ball][class$="13"][data-v-539c79ca], .list-item [class^=ball][class$="14"][data-v-539c79ca], .list-item [class^=ball][class$="15"][data-v-539c79ca], .list-item [class^=ball][class$="16"][data-v-539c79ca], .list-item [class^=ball][class$="17"][data-v-539c79ca], .list-item [class^=ball][class$="18"][data-v-539c79ca], .list-item [class^=ball][class$="19"][data-v-539c79ca],
+.bonus [class^=ball][class$="10"][data-v-539c79ca],
+.bonus [class^=ball][class$="11"][data-v-539c79ca],
+.bonus [class^=ball][class$="12"][data-v-539c79ca],
+.bonus [class^=ball][class$="13"][data-v-539c79ca],
+.bonus [class^=ball][class$="14"][data-v-539c79ca],
+.bonus [class^=ball][class$="15"][data-v-539c79ca],
+.bonus [class^=ball][class$="16"][data-v-539c79ca],
+.bonus [class^=ball][class$="17"][data-v-539c79ca],
+.bonus [class^=ball][class$="18"][data-v-539c79ca],
+.bonus [class^=ball][class$="19"][data-v-539c79ca] {
+  background-color: #69c8f2;
+}
+.list-item [class^=ball][class$="20"][data-v-539c79ca], .list-item [class^=ball][class$="21"][data-v-539c79ca], .list-item [class^=ball][class$="22"][data-v-539c79ca], .list-item [class^=ball][class$="23"][data-v-539c79ca], .list-item [class^=ball][class$="24"][data-v-539c79ca], .list-item [class^=ball][class$="25"][data-v-539c79ca], .list-item [class^=ball][class$="26"][data-v-539c79ca], .list-item [class^=ball][class$="27"][data-v-539c79ca], .list-item [class^=ball][class$="28"][data-v-539c79ca], .list-item [class^=ball][class$="29"][data-v-539c79ca],
+.bonus [class^=ball][class$="20"][data-v-539c79ca],
+.bonus [class^=ball][class$="21"][data-v-539c79ca],
+.bonus [class^=ball][class$="22"][data-v-539c79ca],
+.bonus [class^=ball][class$="23"][data-v-539c79ca],
+.bonus [class^=ball][class$="24"][data-v-539c79ca],
+.bonus [class^=ball][class$="25"][data-v-539c79ca],
+.bonus [class^=ball][class$="26"][data-v-539c79ca],
+.bonus [class^=ball][class$="27"][data-v-539c79ca],
+.bonus [class^=ball][class$="28"][data-v-539c79ca],
+.bonus [class^=ball][class$="29"][data-v-539c79ca] {
+  background-color: #ff7272;
+}
+.list-item [class^=ball][class$="30"][data-v-539c79ca], .list-item [class^=ball][class$="31"][data-v-539c79ca], .list-item [class^=ball][class$="32"][data-v-539c79ca], .list-item [class^=ball][class$="33"][data-v-539c79ca], .list-item [class^=ball][class$="34"][data-v-539c79ca], .list-item [class^=ball][class$="35"][data-v-539c79ca], .list-item [class^=ball][class$="36"][data-v-539c79ca], .list-item [class^=ball][class$="37"][data-v-539c79ca], .list-item [class^=ball][class$="38"][data-v-539c79ca], .list-item [class^=ball][class$="39"][data-v-539c79ca],
+.bonus [class^=ball][class$="30"][data-v-539c79ca],
+.bonus [class^=ball][class$="31"][data-v-539c79ca],
+.bonus [class^=ball][class$="32"][data-v-539c79ca],
+.bonus [class^=ball][class$="33"][data-v-539c79ca],
+.bonus [class^=ball][class$="34"][data-v-539c79ca],
+.bonus [class^=ball][class$="35"][data-v-539c79ca],
+.bonus [class^=ball][class$="36"][data-v-539c79ca],
+.bonus [class^=ball][class$="37"][data-v-539c79ca],
+.bonus [class^=ball][class$="38"][data-v-539c79ca],
+.bonus [class^=ball][class$="39"][data-v-539c79ca] {
+  background-color: #aaa;
+}
+.list-item [class^=ball][class$="40"][data-v-539c79ca], .list-item [class^=ball][class$="41"][data-v-539c79ca], .list-item [class^=ball][class$="42"][data-v-539c79ca], .list-item [class^=ball][class$="43"][data-v-539c79ca], .list-item [class^=ball][class$="44"][data-v-539c79ca], .list-item [class^=ball][class$="45"][data-v-539c79ca],
+.bonus [class^=ball][class$="40"][data-v-539c79ca],
+.bonus [class^=ball][class$="41"][data-v-539c79ca],
+.bonus [class^=ball][class$="42"][data-v-539c79ca],
+.bonus [class^=ball][class$="43"][data-v-539c79ca],
+.bonus [class^=ball][class$="44"][data-v-539c79ca],
+.bonus [class^=ball][class$="45"][data-v-539c79ca] {
+  background-color: #b0d840;
+}
